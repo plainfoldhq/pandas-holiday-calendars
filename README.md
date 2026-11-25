@@ -149,6 +149,7 @@ Holiday calendars are republished by authorities and can change. Check the offic
 - `usbizdays`, US business-day helpers: https://pypi.org/project/usbizdays/
 - `exchange-trading-days`: https://pypi.org/project/exchange-trading-days/
 - `fx-spot-dates`, FX settlement holidays and spot dates: https://pypi.org/project/fx-spot-dates/
+- The same calendars in Go: https://github.com/plainfoldhq/go-holiday-calendars
 
 ## Need other years or countries?
 
