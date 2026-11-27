@@ -20,6 +20,8 @@ pip install pandas-holiday-calendars
 
 ## Quick start
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/plainfoldhq/pandas-holiday-calendars/blob/main/examples/business_days_in_pandas.ipynb) Run the recipes below in your browser, no install needed.
+
 ```python
 import pandas as pd
 from pandas_holiday_calendars import NYSECalendar, business_day
